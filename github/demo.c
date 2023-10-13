@@ -3,5 +3,6 @@
 #include<conio.h>
 int main(){
     printf("Hellow");
+
+return 0;
 }
-return;
